@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rwdled or you can call me Alex
-- 👀 I’m interested in gameing darwing and codeing
-- 🌱 I’m currently learning pyton 3 
-- 💞️ I’m looking to collaborate on modding video games or makeing websites.
+- i make code for ppl
+- 🌱 I’m currently learning pyton 3, java and linux 
+- 💞️ I’m looking to collaborate on makeing websites.
 - 📫 How to reach me you can all reach me at rwdled@gmail.com
 
 <!---
